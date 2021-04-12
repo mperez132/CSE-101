@@ -1,0 +1,22 @@
+----------Program Description----------
+
+Dictionary.h 
+-Provided file from Tantalo.
+
+Dictionary.c written by me
+-Dictionary ADT for an underlying data structure called a Binary Search Tree (BST) but this time for a red black tree.
+
+DictionaryTest.c written by me
+-Dictionary ADT test file.
+
+Order.c written by me
+-A modification of Lex.c, printing 3 orders, keys only
+
+Makefile provided on webpage, alter as you see fit
+-Provided file that has instruction commands setup in a basic text file that tells our console window
+what to do. 
+
+README written by me
+-Table of Contents for the assignment.
+
+----------NOTES----------

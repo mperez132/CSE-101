@@ -1,0 +1,35 @@
+﻿----------Program Description----------
+
+List.h written by me
+-Header file with all exported List type operations.
+
+List.c written by me
+-Contains the List ADT module guts that has all the functions used and how they work. 
+
+ListTest.c provided on webpage, do not alter
+-A basic test client provided for submission and test the basics of our List ADT. 
+
+Arithmetic.c written by me
+-Taking 2 command arugments with an input filename and an output filename to use 
+the BigInteger operations to do 
+𝐴, 𝐵, 𝐴 + 𝐵, 𝐴 − 𝐵, 𝐴 − 𝐴, 3𝐴 − 2𝐵, 𝐴𝐵, 𝐴^2, 𝐵^2, 9𝐴^4 + 16𝐵^5
+
+BigInteger.c written by me
+-Our functions that were specificed in the pdf for pa2 such as add, diff.....
+
+BigInteger.h written by me
+-Header file with all exported BigInteger type operations
+
+BigIntergerTest.c written by me
+-Classic ADT tester for BigInteger.c/h
+
+Makefile provided on webpage, alter as you see fit
+-Provided file that has instruction commands setup in a basic text file that tells our console window
+what to do. 
+
+README written by me
+-Table of Contents for the assignment.
+
+----------NOTES----------
+I know the program doesn't work. Do not get me started on how long I've been trying to figure this shit out. 
+I'll porbably look back at this moment and just chuckle so please be aware. 

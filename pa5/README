@@ -1,0 +1,22 @@
+----------Program Description----------
+
+List.h written by me
+-Header file with all exported List type operations.
+
+List.cpp written by me
+-Contains the List ADT module guts that has all the functions used and how they work. 
+
+ListTest.cpp written by me
+-Tests for the List ADT
+
+Shuffle.cpp written by me
+-Shuffle until the list is back to the original order. The perfect Shuffle....
+
+Makefile provided on webpage, alter as you see fit
+-Provided file that has instruction commands setup in a basic text file that tells our console window
+what to do. 
+
+README written by me
+-Table of Contents for the assignment.
+
+----------NOTES----------

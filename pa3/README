@@ -1,0 +1,24 @@
+----------Program Description----------
+
+List.h written by me
+-Header file with all exported List type operations.
+
+List.c written by me
+-Contains the List ADT module guts that has all the functions used and how they work. 
+
+GraphTest.c written by me
+
+Graph.h written by me
+
+Graph.c written by me
+
+FindPath.c written by me
+
+Makefile provided on webpage, alter as you see fit
+-Provided file that has instruction commands setup in a basic text file that tells our console window
+what to do. 
+
+README written by me
+-Table of Contents for the assignment.
+
+----------NOTES----------
